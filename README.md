@@ -7,12 +7,12 @@ For this node, we are going to need :
 - a Huggingface token
 - Funded octaspace account to run the node ( least $3 )
 
-# Step 1: Creating a Gensyn Account
+**Step 1: Creating a Gensyn Account**
 
 - Visit: https://dashboard.gensyn.ai
 - Sign up with your Gmail
 
-# Step 2: Generate a Hugging Face token
+**Step 2: Generate a Hugging Face token**
 
 - Visit: https://huggingface.co/settings/tokens and create an account
 - Go to profile → Access Tokens → Create token
@@ -20,7 +20,7 @@ For this node, we are going to need :
 - Create the token and copy it somewhere safe
 
 
-# Step 3: Buy GPU and deploy a node on OctaSpace
+**# Step 3: Buy GPU and deploy a node on OctaSpace**
 
 - Go to: https://marketplace.octa.space
 - Create an account and top up with USDT/USD (on ETH or BNB chain) or buy Octa from Mexc and make a transfer
@@ -30,13 +30,13 @@ For this node, we are going to need :
 - Input your ‘huggingface token’ in the ‘hf token’ section and  set ‘prg game’ as true
 - then Deploy and wait until the dashboard shows Service configured
 
-# Step 4:  First time node setup
+**# Step 4:  First time node setup**
 
 - Open your session on OctaSpace
 - Click HTTPS Services and connect your Gensyn account
 - To confirm it’s running: click the clipboard icon → Container logs. (Logs should show the node starting.)
 
-## To get the Swarm Role on discord
+# To get the Swarm Role on discord
 
 
 
