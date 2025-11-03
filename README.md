@@ -23,7 +23,7 @@ For this node, we are going to need :
 **Step 3: Buy GPU and deploy a node on OctaSpace**
 
 - Go to: https://marketplace.octa.space
-- Create an account and top up with USDT/USD (on ETH or BNB chain) or buy Octa from Mexc and make a transfer
+- Create an account and top up with USDT/USD (on ETH or BNB chain) or buy Octa from Mexc and top up your account with it
 - Select Gensyn public testnet
 - Choose an affordable instance (e.g. RTX 3090 24GB at 0.1–0.5 octa/hr)
 - Click Configure, paste your Hugging Face token
