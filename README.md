@@ -28,6 +28,16 @@ For this node, we are going to need :
 - Choose an affordable instance (e.g. RTX 3090 24GB at 0.1–0.5 octa/hr)
 - Click Configure, paste your Hugging Face token
 - Input your ‘huggingface token’ in the ‘hf token’ section and  set ‘prg game’ as true
-- then Deploy
+- then Deploy and wait until the dashboard shows Service configured
+
+# Step 4:  First time node setup
+
+- Open your session on OctaSpace
+- Click HTTPS Services and connect your Gensyn account
+- To confirm it’s running: click the clipboard icon → Container logs. (Logs should show the node starting.)
+
+## To get the Swarm Role on discord
+
+
 
 
