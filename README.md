@@ -36,13 +36,7 @@ For this node, we are going to need :
 - Click HTTPS Services and connect your Gensyn account
 - To confirm it’s running: click the clipboard icon → Container logs. (Logs should show the node starting.)
 
-# Swarm Role on discord
-
-To get the role you are going to need:
-- create a telegram bot
-- an active node
-- HuggingFace token
-- Eoa address from gensyn testnet dashboard
+# Get Swarm Role on discord
 
 #Step 1: Install GSwarm (Node monitor) 
 
