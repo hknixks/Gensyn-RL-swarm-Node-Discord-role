@@ -45,7 +45,7 @@ For WIndow Users:
 - After installing, open CMD (as administrator) 
 - and run the command on CMD: go install http://github.com/Deep-Commit/gswarm/cmd/gswarm@latest
 - then Run this: gswarm 
-(It will prompt for your Telegram Bot Token (next steps)
+(you will see a huge Gwarm text and it will ask for your Telegram Bot Token)
 
 Step 2: Create your Telegram bot
 - Open Telegram and message @BotFather 
