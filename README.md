@@ -20,7 +20,7 @@ For this node, we are going to need :
 - Create the token and copy it somewhere safe
 
 
-**# Step 3: Buy GPU and deploy a node on OctaSpace**
+**Step 3: Buy GPU and deploy a node on OctaSpace**
 
 - Go to: https://marketplace.octa.space
 - Create an account and top up with USDT/USD (on ETH or BNB chain) or buy Octa from Mexc and make a transfer
@@ -30,13 +30,41 @@ For this node, we are going to need :
 - Input your ‘huggingface token’ in the ‘hf token’ section and  set ‘prg game’ as true
 - then Deploy and wait until the dashboard shows Service configured
 
-**# Step 4:  First time node setup**
+**Step 4:  First time node setup**
 
 - Open your session on OctaSpace
 - Click HTTPS Services and connect your Gensyn account
 - To confirm it’s running: click the clipboard icon → Container logs. (Logs should show the node starting.)
 
-# To get the Swarm Role on discord
+# Swarm Role on discord
+
+To get the role you are going to need:
+- create a telegram bot
+- an active node
+- HuggingFace token
+- Eoa address from gensyn testnet dashboard
+
+#Step 1: Install GSwarm (Node monitor) 
+
+For WIndow Users:
+- Download and install Go from https://go.dev/dl/
+- After installing, open CMD (as administrator) 
+- and run the command on CMD: go install http://github.com/Deep-Commit/gswarm/cmd/gswarm@latest
+- then Run this: gswarm 
+(It will prompt for your Telegram Bot Token (next steps)
+
+Step 2: Create your Telegram bot
+- Open Telegram and message @BotFather 
+- Type /newbot. Give it a name (e.g., "SwarmBot").
+- Choose a username ending in "bot" (e.g. hkswarmbot).
+- Copy the bot token (e.g. format: 80000000:AAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+
+**Step 3: Paste the copied bot token into your CMDl when prompted**
+
+**Step 4: Next, it will ask for your Telegram chat ID**
+
+- Message @get_id_bot or @RawDataBot in Telegram to get your ID (e.g. 6000000000).
+- Paste it into your CMD
 
 
 
