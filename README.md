@@ -73,13 +73,13 @@ Step 2: Create your Telegram bot
 
 **Your GSwarm bot is now monitoring your node via Telegram**
 
-**Go to Discord for the Swarm role:**
+**Step 6: Go to Discord for the Swarm role:**
 - Join the Gensyn Discord (if not already): https://discord.gg/gensyn
 - Go to the # link-for-access channel
 - Type /link-telegram to start the process
 - you will then be given a code
 
-**Go to  Telegram:**
+**Step 7: Go to  Telegram:**
 
 - Open the bot you created earlier (the one ending in "bot").
 - Send: /verify [yourCODE] (put the code you got from the discord in [yourCODE])
