@@ -53,12 +53,39 @@ Step 2: Create your Telegram bot
 - Choose a username ending in "bot" (e.g. hkswarmbot).
 - Copy the bot token (e.g. format: 80000000:AAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 
-**Step 3: Paste the copied bot token into your CMDl when prompted**
+**Step 3: Paste the copied bot token into your CMD**
 
 **Step 4: Next, it will ask for your Telegram chat ID**
 
 - Message @get_id_bot or @RawDataBot in Telegram to get your ID (e.g. 6000000000).
 - Paste it into your CMD
+- Copy Your bot token
+- paste it in this URL: https://api.telegram.org/botYOUR_BOT_TOKEN/getUpdates (e.g https://api.telegram.org/bot80000000:AAxxxxxxxxxxxxx/getUpdates)
+- after adding the bot token to the URL, search it up on your browser
+- you will see a code output on your browser, look for id":123456789
+- the number is your Chat ID
+- copy the Chat ID and paste in your CMD
+
+**Step 5: Next, it will ask for your EOA address**
+- sign in to your gensyn testnet
+- starts with 0x and green in color
+- copy it and then paste it to your CMD
+
+**Your GSwarm bot is now monitoring your node via Telegram**
+
+**Go to Discord for the Swarm role:**
+- Join the Gensyn Discord (if not already): https://discord.gg/gensyn
+- Go to the # link-for-access channel
+- Type /link-telegram to start the process
+- you will then be given a code
+
+**Go to  Telegram:**
+
+- Open the bot you created earlier (the one ending in "bot").
+- Send: /verify [yourCODE] (put the code you got from the discord in [yourCODE])
+- after that, you will get Account succesfully linked
+- Your discord and telegram has been linked
+- you will then be given the Swarm Role on discord
 
 
 
